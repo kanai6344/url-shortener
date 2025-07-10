@@ -8,6 +8,7 @@ A simple URL shortening service with click tracking.
 - Optional custom short codes
 - Track click counts for each shortened URL
 - Simple web interface
+- REST API for programmatic access
 
 ## Installation
 
