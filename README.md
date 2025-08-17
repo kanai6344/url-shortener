@@ -2,9 +2,6 @@
 
 A simple URL shortening service with click tracking.
 
-## Live Demo
-
-You can view a live version of this tool at [(https://kanai6344.github.io/url-shortener/)]
 
 ## Features
 
